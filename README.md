@@ -14,4 +14,3 @@ expectations set by Udacity. I am going to nominate this for Best Project.”
 
 I enjoyed my first attempt. I have a long way to go. :)
 
-The documents are background only.

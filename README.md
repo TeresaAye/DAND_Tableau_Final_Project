@@ -1,5 +1,5 @@
-# DAND_Tableau_Final_Project
-Final Project for Udacity DataAnalytics Nanodegree Tableau Module
+# Tableau_Final_Project
+Final Project for Udacity Data Analyst Nanodegree Tableau Module
 
 Final link to Teresa Aysan Tableau Project for Udacity Data Analytics NanoDegree.
 April 9, 2018:

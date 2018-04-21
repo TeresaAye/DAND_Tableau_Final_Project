@@ -1,7 +1,7 @@
 # Tableau_Final_Project
 Final Project for Udacity Data Analyst Nanodegree Tableau Module
 
-Final link to Teresa Aysan Tableau Project for Udacity Data Analytics NanoDegree.
+Final link to Teresa Aysan Tableau Project for Udacity Data Analyst NanoDegree.
 April 9, 2018:
 If clicking does not work, copy and paste into your url.
 https://public.tableau.com/profile/teresa.aysan#!/vizhome/Teresa_Aysan_NHL_v_1_03_20180405/TeamStory?publish=yes
